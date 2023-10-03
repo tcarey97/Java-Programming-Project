@@ -11,7 +11,7 @@ whether that be 'hr' (for HR team), 'applicant' (for job applicants) or 'audit' 
 For example, a member of the HR team can access applicant profiles and create new job listings using the HR Assistant Software. An applicant, on the other hand, can create a new profile and apply to available jobs in the Application Portal. 
 If audit is inputted, comprehensive statistics are displayed to the user, revealing inherent biases that may be built-in as an (un)intended consequence of the matchmaking algorithm. 
 
-This project included an oral exam, requiring students to explain the rationale for their code and also where potential improvements could be made.
+This project included an oral exam, requiring students to explain the rationale of their code and also where potential improvements could be made.
 
 I hope this project can help reveal some of my proficiency in Java. Please contact me if you would like more information in regards to this project.
 
